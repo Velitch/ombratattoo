@@ -1265,17 +1265,17 @@ a {
     background-color: #000000;
 }
 
-@media (max-width: 991px) {
+@media screen and (max-width: 991px) {
   .cid-sYsm6ZTLsK1 {
     background-image: url("../../../assets/images/1_577.webp");
   }
 
-  @media (max-width: 991px) {
+  @media screen and (max-width: 991px) {
     .cid-sYsm6ZTLsK2 {
       background-image: url("../../../assets/images/1_577.webp");
     }
 
-    @media (max-width: 991px) {
+    @media screen and (max-width: 991px) {
       .cid-sYsm6ZTLsK3 {
         background-image: url("../../../assets/images/1_577.webp");
       }
