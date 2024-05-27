@@ -1248,6 +1248,22 @@ a {
   }
 }
 
+.cid-udYJJvhxrY {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/bg_1280_720.webp");
+}
+@media (max-width: 991px) {
+  .cid-udYJJvhxrY .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-udYJJvhxrY .row {
+  flex-direction: row-reverse;
+}
+.cid-udYJJvhxrY img {
+  width: 100%;
+}
 .cid-sYsm6ZTLsK {
   background-image: url("../../../assets/images/bg_1280_720.webp");
 }
