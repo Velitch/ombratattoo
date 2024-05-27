@@ -1258,6 +1258,15 @@ a {
   background-image: url("../../../assets/images/frames.webp");
 }
 
+.bgr {
+  /* The image used */
+  background-image: url("../../../assets/images/frames.webp");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .cid-udYJJvhxrY {
   background-image: url("../../../assets/images/bg_1280.webp");
 }
