@@ -1,5 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
+  background-image: url('"../../../assets/images/bg_1280.webp"');
+
 }
 
 .display-1 {
