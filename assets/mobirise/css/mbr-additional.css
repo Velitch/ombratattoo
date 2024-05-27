@@ -1251,7 +1251,7 @@ a {
 .cid-udYJJvhxrY {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/bg_1280_720.webp");
+  background-image: url("../../../assets/images/bg_1280.webp");
 }
 @media (max-width: 991px) {
   .cid-udYJJvhxrY .image-wrapper {
@@ -1263,9 +1263,6 @@ a {
 }
 .cid-udYJJvhxrY img {
   width: 100%;
-}
-.cid-sYsm6ZTLsK {
-  background-image: url("../../../assets/images/bg_1280_720.webp");
 }
 
 .cid-sYxzkmBasE {
