@@ -1262,7 +1262,7 @@ a {
   background-image: url("../../../assets/images/3.webp");
 }
 
-@media (max-width: 576px) {
+@media (max-width: 991px) {
   .cid-sYsm6ZTLsK1 {
     background-image: url("../../../assets/images/1_577.webp");
   }
