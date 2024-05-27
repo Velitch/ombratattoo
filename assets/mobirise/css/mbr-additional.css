@@ -1266,8 +1266,21 @@ a {
 }
 
   @media (min-width: 991px) {
-    .cid-sYsm6ZTLsK2 {
+    .cid-sYsm6ZTLsK1 {
       background-image: url("../../../assets/images/1.webp");
+          background-color: #000000;
+    }
+  }
+  @media (min-width: 991px) {
+    .cid-sYsm6ZTLsK2 {
+      background-image: url("../../../assets/images/2.webp");
+          background-color: #000000;
+    }
+  }
+
+  @media (min-width: 991px) {
+    .cid-sYsm6ZTLsK3 {
+      background-image: url("../../../assets/images/3.webp");
           background-color: #000000;
     }
   }
