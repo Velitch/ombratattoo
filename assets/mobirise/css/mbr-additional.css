@@ -1263,17 +1263,17 @@ a {
 }
 
 @media (max-width: 991px) {
-  .cid-sYsm6ZTLsK1 {
+  .cid-sYsm6ZTLsK1 .image-wrapper {
     background-image: url("../../../assets/images/1_577.webp");
   }
 
   @media (max-width: 991px) {
-    .cid-sYsm6ZTLsK2 {
+    .cid-sYsm6ZTLsK2 .image-wrapper {
       background-image: url("../../../assets/images/1_577.webp");
     }
 
     @media (max-width: 991px) {
-      .cid-sYsm6ZTLsK3 {
+      .cid-sYsm6ZTLsK3 .image-wrapper {
         background-image: url("../../../assets/images/1_577.webp");
       }
 
