@@ -1252,14 +1252,17 @@ a {
 
 .cid-sYsm6ZTLsK1 {
   background-image: url("../../../assets/images/1.png");
+  background-color: #000000;
 }
 
 .cid-sYsm6ZTLsK2 {
   background-image: url("../../../assets/images/2.png");
+    background-color: #000000;
 }
 
 .cid-sYsm6ZTLsK3 {
   background-image: url("../../../assets/images/3.png");
+    background-color: #000000;
 }
 
 @media (max-width: 991px) {
