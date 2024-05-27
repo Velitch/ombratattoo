@@ -1265,7 +1265,7 @@ a {
     background-color: #000000;
 }
 
-  @media (min-width: 577px) {
+  @media (max-width: 577px) {
     .cid-sYsm6ZTLsK2 {
       background-image: url("../../../assets/images/1_577.webp");
           background-color: #000000;
