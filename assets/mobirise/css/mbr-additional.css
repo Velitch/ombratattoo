@@ -1265,6 +1265,12 @@ a {
 .cid-udYJJvhxrY {
   background-image: url("../../../assets/images/bg_1280.webp");
 }
+
+@media (max-width: 991px) {
+  .cid-sYsm6ZTLsK1 {
+    background-image: url("../../../assets/images/1_577.webp");
+  }
+
 @media (max-width: 991px) {
   .cid-udYJJvhxrY .image-wrapper {
     margin-bottom: 1rem;
