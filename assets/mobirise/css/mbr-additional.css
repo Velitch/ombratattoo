@@ -1,7 +1,13 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background-image: url('"../../../assets/images/bg_1280.webp"');
+}
 
+.bt_lg {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  right: 50px;
+  top: 50px;
 }
 
 .display-1 {
