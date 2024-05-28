@@ -1252,9 +1252,8 @@ a {
 .bt_lg {
   background-color: #04AA6D;
   border: none;
-  color: white;
   padding: 300px 150px;
-  margin: 10% 40%;
+  margin: 4px 40%;
   cursor: pointer;
 }
 
@@ -1296,14 +1295,14 @@ a {
           background-color: #000000;
     }
   }
-  @media screen and  (min-width: 1200px) {
+  @media screen and (min-width: 1200px) {
     .cid-sYsm6ZTLsK2 {
       background-image: url("../../../assets/images/2.png");
           background-color: #000000;
     }
   }
 
-  @media (min-width: 1200px) {
+  @media screen and (min-width: 1200px) {
     .cid-sYsm6ZTLsK3 {
       background-image: url("../../../assets/images/3.png");
           background-color: #000000;
