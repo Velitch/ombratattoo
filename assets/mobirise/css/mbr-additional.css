@@ -1264,21 +1264,26 @@ a {
   background-image: url("../../../assets/images/3.png");
     background-color: #000000;
 }
-
-  @media (min-width:1279px) {
+@media (min-width:576px) {
+  .cid-sYsm6ZTLsK1 {
+    background-image: url("../../../assets/images/1_577.webp");
+        background-color: #000000;
+  }
+}
+  @media (min-width:1200px) {
     .cid-sYsm6ZTLsK1 {
       background-image: url("../../../assets/images/1.png");
           background-color: #000000;
     }
   }
-  @media (min-width: 1279px) {
+  @media (min-width: 1200px) {
     .cid-sYsm6ZTLsK2 {
       background-image: url("../../../assets/images/2.png");
           background-color: #000000;
     }
   }
 
-  @media (min-width: 1279px) {
+  @media (min-width: 1200px) {
     .cid-sYsm6ZTLsK3 {
       background-image: url("../../../assets/images/3.png");
           background-color: #000000;
