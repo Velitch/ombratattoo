@@ -1250,6 +1250,13 @@ a {
   }
 }
 
+.bt_lg {
+  border: none;
+  padding: 100px 50px;
+  margin: 4px 400px;
+  cursor: pointer;
+}
+
 @media (min-width: 1200px) {
 .bt_lg {
   border: none;
