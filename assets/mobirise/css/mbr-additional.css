@@ -1249,6 +1249,14 @@ a {
     left: -1rem;
   }
 }
+.bt_lg {
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 300px 150px;
+  margin: 10% 40%;
+  cursor: pointer;
+}
 
 .cid-sYsm6ZTLsK1 {
   background-image: url("../../../assets/images/1_577.png");
