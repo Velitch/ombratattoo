@@ -1257,14 +1257,17 @@ a {
   cursor: pointer;
 }
 
-@media (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
 .bt_lg {
   border: none;
-  padding: 300px 150px;
-  margin: 4px 100px;
+  padding: 300px 0px;
+  margin: 0px 0px;
   cursor: pointer;
 }
 }
+
+.button100 {width: 100%;}
+
 .cid-sYsm6ZTLsK1 {
   background-image: url("../../../assets/images/1_577.png");
   background-color: #000000;
