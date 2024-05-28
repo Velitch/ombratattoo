@@ -1249,13 +1249,15 @@ a {
     left: -1rem;
   }
 }
+
+@media (min-width: 1200px) {
 .bt_lg {
   border: none;
   padding: 300px 150px;
   margin: 4px 1000px;
   cursor: pointer;
 }
-
+}
 .cid-sYsm6ZTLsK1 {
   background-image: url("../../../assets/images/1_577.png");
   background-color: #000000;
