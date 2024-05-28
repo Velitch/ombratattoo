@@ -1270,6 +1270,18 @@ a {
         background-color: #000000;
   }
 }
+@media screen and (min-width:576px) {
+  .cid-sYsm6ZTLsK2 {
+    background-image: url("../../../assets/images/2_577.png");
+        background-color: #000000;
+  }
+}
+@media screen and (min-width:576px) {
+  .cid-sYsm6ZTLsK3 {
+    background-image: url("../../../assets/images/3_577.png");
+        background-color: #000000;
+  }
+}
   @media screen and (min-width:1200px) {
     .cid-sYsm6ZTLsK1 {
       background-image: url("../../../assets/images/1.png");
