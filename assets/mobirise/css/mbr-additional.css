@@ -8,6 +8,7 @@ body {
   height: 200px;
   right: 50px;
   top: 50px;
+  position: absolute;
 }
 
 .display-1 {
